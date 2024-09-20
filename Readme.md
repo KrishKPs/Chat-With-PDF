@@ -1,4 +1,4 @@
-\# Chat-With-PDF Backend Application
+# Chat-With-PDF Backend Application
 
 This is a backend application that allows users to upload a PDF file and chat with the content of the PDF. Users can ask any questions related to the PDF, and the application will provide relevant responses by processing the content of the document using OpenAI's GPT model.
 
